@@ -1,5 +1,5 @@
 // import { createMachine } from "xstate";
-// TODO: Create a state machine for a lamp
+// TODO: Create a state machine
 // const lampMachine = createMachine({
 
 // })
